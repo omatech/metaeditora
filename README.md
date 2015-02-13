@@ -1,4 +1,7 @@
 # metaeditora
 ### 20150213 - Comencem
 Creació del repositori de la metaeditora amb el README! XD
-Clone als diferents usuaris
+<ul>
+	<li>Clone als diferents usuaris</li>
+	<li>Actualitzar Master</li>
+</ul>
