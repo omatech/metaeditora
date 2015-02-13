@@ -5,4 +5,5 @@ Creació del repositori de la metaeditora amb el README! XD
 	<li>Clone als diferents usuaris</li>
 	<li>Actualitzar Master</li>
 	<li>Modificació @omaroca a Master</li>
+	<li>Modificació @omaroca a Develop</li>
 </ul>
